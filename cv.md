@@ -54,3 +54,14 @@ elForm.addEventListener("submit", function (e) {
 ```
 
 ---
+
+### Courses:
+
+- HTML and CSS Tutorials on It academy in Tashkent<br>
+
+---
+
+### Languages:
+
+- English \- A2
+- Russian \- Native
