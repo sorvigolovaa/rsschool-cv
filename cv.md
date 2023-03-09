@@ -11,3 +11,18 @@
 **Telegram:** @sbknugaara<br>
 
 ---
+
+### Briefly About Myself:
+
+I am 21 years old. I am studying economics while studying programming this year, I finished courses, now I want to develop further in front-end development.<br>
+
+---
+
+### Skills:
+
+- HTML5, CSS3, SCSS
+- JavaScript Basics
+- Git, GitHub
+- VS Code, Figma
+
+---
